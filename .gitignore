@@ -7,3 +7,5 @@
 build
 java/target
 demos/target
+.idea
+cmake-*
